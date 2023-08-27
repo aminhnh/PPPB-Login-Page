@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PPPB Login Page</string>
+    <string name="login">Login</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="hint_username">Masukkan Username</string>
+    <string name="hint_password">Masukkan Password</string>
+    <string name="btn_login">Log in</string>
+    <string name="login_success">Login Successful</string>
+    <string name="login_failed_username">Invalid username</string>
+    <string name="login_failed_password">Invalid password</string>
+</resources>
